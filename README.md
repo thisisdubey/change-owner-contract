@@ -1,2 +1,2 @@
 # change-owner-contract
- basic solidity contract for changing ownership of contract
+ Solidity- contract for changing ownership of contract
